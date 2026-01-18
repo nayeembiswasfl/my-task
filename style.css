@@ -396,7 +396,7 @@ footer {
     align-items: center;
     text-align: left;
     /* border: 1px solid red; */
-    margin-left: 45px;
+    /* margin-left: 45px; */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.377);
     border-radius: 10px;
  }
